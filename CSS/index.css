@@ -1,0 +1,61 @@
+body {
+    display: block;
+    width: 90vw;
+    height: 100vh;
+    background-color: #f26666;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    display: flex;
+    width: 95vw;
+    margin: 0 0 0 5vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+padding-top: 7vh;
+
+}
+
+.left { 
+    width: 40vw; 
+
+}
+.left img {
+    width: 60%;
+    height: auto;
+    margin-left: 3vw;
+}
+.right {
+    float: left;
+    width: 75vw; 
+    border: 1px solid gray;
+    
+}
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+li {
+    margin: 0 3vw;
+}
+
+.icons {
+    margin-left: 7vw; 
+}
+.center {
+    width: 30vw;
+    float: left;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    margin-bottom: 0%;
+    padding: ;
+}
+li {
+    
+    margin: 0 3vw;
+}
